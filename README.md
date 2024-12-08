@@ -1,3 +1,3 @@
 # AdventOfCode
 
-Questionable (but working) solutions to https://adventofcode.com/2021
+My questionable (but working) solutions to https://adventofcode.com/
